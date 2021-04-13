@@ -33,4 +33,4 @@ Data Imageset Link: https://drive.google.com/drive/folders/1MzFv-AG-Rjo18sd-aybB
 
 ### This Project contains below file:
 
-One iPython Notebook - Skin_cancer_melanoma_CNN.ipynb
+One iPython Notebook - Skin_cancer_detection.ipynb
