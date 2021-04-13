@@ -29,7 +29,7 @@ The data set contains the following diseases:
 
 
 Dataset (Download from below link):
-Data Imageset Link:
+Data Imageset Link: https://drive.google.com/drive/folders/1MzFv-AG-Rjo18sd-aybBbnIEIDJ_4E-h?usp=sharing
 
 ### This Project contains below file:
 
